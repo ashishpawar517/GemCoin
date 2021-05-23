@@ -34,6 +34,8 @@
 2. Clone this repository
 3. Open command line in the cloned folder,
    - To install dependencies, run `npm install`
+   - for truffle run `truffle compile`.
+   - then run `truffle migrate`.
    - To run the application for development, run `npm run dev`
 4. It will automatically open the localhost of you if does not then open [localhost:3000](http://localhost:3000/) in the browser
 
