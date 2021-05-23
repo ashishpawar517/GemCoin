@@ -1,8 +1,8 @@
-# Gem Coin
-
-custom cryptocurrency using ERC-20 tokens.
+<h1 align="center"> Gem Coin
+</h1>
+<p align="center">custom cryptocurrency using ERC-20 tokens.</p>
 <!-- -  -->
-<br />
+<!-- <br /> -->
 <!-- <br /> -->
 <!-- <p align="center"><a href="https://herokuapp.com/">Live</a></p> -->
 
