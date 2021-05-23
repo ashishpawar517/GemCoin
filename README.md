@@ -30,7 +30,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 #### How to run this code
 
-1. Make sure Ganache is running
+1. Make sure Ganache is running. Also add seed to metamask setup.
 2. Clone this repository
 3. Open command line in the cloned folder,
    - To install dependencies, run `npm install`
